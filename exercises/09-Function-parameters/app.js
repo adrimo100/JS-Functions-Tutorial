@@ -1,4 +1,9 @@
 // Your code goes here:
+function renderPerson(name, birth_date, colEyes, age, gender){
+
+  return `${name} is a ${age} years old ${gender} born in ${birth_date} with ${colEyes} eyes`;
+
+}
 
 
 
